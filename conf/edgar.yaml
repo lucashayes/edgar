@@ -1,0 +1,26 @@
+connection:
+  AlphaChat:
+    network: alphachat
+    plugin:
+      join:
+        channel: '#cooper'
+  XDK2:
+    network: xdk2
+    plugin:
+      join:
+        channel: '#XDK2'
+network:
+  alphachat:
+    inputencoding: UTF-8
+    nickname: EdgarDev
+    outputencoding: UTF-8
+    port: 6667
+    server: irc.alphachat.net
+    username: EdgarAllenPoe
+  xdk2:
+    inputencoding: UTF-8
+    nickname: EdgarDev
+    outputencoding: UTF-8
+    port: 6667
+    server: irc.xdk2.net
+    username: EdgarAllenPoe
